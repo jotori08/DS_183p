@@ -5,6 +5,6 @@
 
 import pandas as pd
 import matplotlib.pyplot as plt
-data = pd.read_csv('/content/DS_183p/daily_data.csv')
-data
+df = pd.read_csv('/content/DS_183p/daily_data.csv')
+df
 ```
